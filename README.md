@@ -9,3 +9,4 @@ $ git clone https://github.com/BoxTissue/dswaseda_oscars.git
 $ docker pull jupyter/datascience-notebook
 $ docker run -p 9000:8888 --name notebook jupyter/datascience-notebook
 ```
+- ブラウザでlocalhost:9000に接続します
